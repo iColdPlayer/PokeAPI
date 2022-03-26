@@ -1,7 +1,7 @@
 # PokeAPI
 
 
-[Result example](/poke.json)
+[Result example](/example/poke.json)
 
 
 ![Sample 1](/example/1.png)
