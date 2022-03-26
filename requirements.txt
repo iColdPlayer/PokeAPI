@@ -1,0 +1,14 @@
+Flask
+Jinja2
+lxml
+requests
+flask_limiter
+requests-html
+flask_wtf
+Werkzeug
+flask-bootstrap4
+wtforms
+flask_mongoengine
+flask_login
+redis
+flask-caching

@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "623eb81e373ed19339afe04d"
+  },
+  "name": "Ivysaur"
+},{
+  "_id": {
+    "$oid": "623eb89fd4978455c1884a66"
+  },
+  "name": "Venusaur"
+},{
+  "_id": {
+    "$oid": "623eb999b8001f8fdc76267a"
+  },
+  "name": "Electrode"
+},{
+  "_id": {
+    "$oid": "623eb9d1b99fa09357616406"
+  },
+  "name": "Charmander"
+},{
+  "_id": {
+    "$oid": "623ed8b0f2265a2009080530"
+  },
+  "name": [
+    "Ivysaur",
+    "Venusaur",
+    "Charmander",
+    "Charmeleon",
+    "Charizard",
+    "Squirtle",
+    "Wartortle",
+    "Blastoise",
+    "Caterpie",
+    "Metapod"
+  ]
+},{
+  "_id": {
+    "$oid": "623edb26664809394f313151"
+  },
+  "name": [
+    "Bulbasaur",
+    "Ivysaur",
+    "Venusaur",
+    "Charmander",
+    "Charmeleon",
+    "Charizard",
+    "Squirtle",
+    "Wartortle",
+    "Blastoise",
+    "Caterpie"
+  ]
+}]
